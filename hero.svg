@@ -14,7 +14,7 @@
 					}
 				}
 				h1 {
-                    font-size: 110px;
+                    font-size: 140px;
                     font-family: Trebuchet MS;
                     dominant-baseline: central;
                     text-anchor: middle;
@@ -29,7 +29,7 @@
                     animation: gradientBackground 10s ease infinite;
 				}
 			</style>
-			<h1>Akash Singh</h1>
+			<h1>biharihu</h1>
 		</div>
 	</foreignObject>
 </svg>
