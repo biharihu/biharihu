@@ -14,7 +14,7 @@
 					}
 				}
 				h1 {
-                    font-size: 140px;
+                    font-size: 110px;
                     font-family: Trebuchet MS;
                     dominant-baseline: central;
                     text-anchor: middle;
