@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/AkashKumar_Dev">
+<a style="display: flex; align-items: center; justify-content: center;" href="https://www.linkedin.com/in/AkashKumar_Dev">
   <img src="hero.svg" height="400">
 </a>
 
