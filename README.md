@@ -1,5 +1,5 @@
-<a href="https://www.linkedin.com/in/biharihu">
-  <img src="hero.svg" width="800" height="400">
+<a href="https://www.linkedin.com/in/AkashKumar_Dev">
+  <img src="hero.svg" height="400">
 </a>
 
 ### Hey 👋, I'm Akash <img align="right" src="https://komarev.com/ghpvc/?username=biharihu" alt="biharihu" />
