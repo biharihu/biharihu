@@ -5,7 +5,7 @@
 ### Hey 👋, I'm Akash <img align="right" src="https://komarev.com/ghpvc/?username=biharihu" alt="biharihu" />
 
 🔭 I’m currently working on NextJS, ReactJS, ExpressJS, React Native, AWS, Microservices</br>
-🌱 I’m currently learning SolidJS, Jetpack Compose</br>
+🌱 I’m currently learning Django, iOS and Swift</br>
 📫 How to reach me: [@biharihu](https://twitter.com/AkashKumar_Dev)
 
 <h3 align="left">⭐ Programming Languages Working💬</h3>
