@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Akash
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akashcodes">
-    <img src="hero.svg" width="600" alt="Hero Banner">
+  <a href="https://www.akashcodes.com/">
+    <img src="hero.svg" width="600" alt="https://www.akashcodes.com/">
   </a>
 </p>
 
