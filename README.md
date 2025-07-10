@@ -1,44 +1,54 @@
-<a style="display: flex; align-items: center; justify-content: center;" href="https://www.linkedin.com/in/AkashKumar_Dev">
-  <img src="hero.svg" height="400">
-</a>
+# Hey there! 👋 I'm Akash
 
-### Hey 👋, I'm Akash <img align="right" src="https://komarev.com/ghpvc/?username=biharihu" alt="biharihu" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/akashcodes">
+    <img src="hero.svg" width="600" alt="Hero Banner">
+  </a>
+</p>
 
-🔭 I’m currently working on NextJS, ReactJS, ExpressJS, React Native, AWS, Microservices</br>
-🌱 I’m currently learning Django, iOS and Swift</br>
-📫 How to reach me: [@biharihu](https://twitter.com/AkashKumar_Dev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=biharihu&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 
-<h3 align="left">⭐ Programming Languages Working💬</h3>
+## 🚀 About Me
 
-| JS                                                                                                                               | Python                                                                                                                             | CSS                                                                                                                                                  | SCSS                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Android" width="35" height="35"/> |
+- 🔭 Full-stack developer specializing in **React**, **Next.js**, **Node.js**, **Express.js**, and **React Native**
+- 🌱 Currently learning **Django**, **iOS**, and **Swift**
+- 💬 Ask me about **JavaScript**, **TypeScript**, **AWS**, **Microservices**
+- 📫 Reach me: [@Akashcodes](https://www.linkedin.com/in/akashcodes)
 
+## 🛠️ Tech Stack
 
-<h3 align="left">⭐ Tools ⚙️ </h3>
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, SCSS  
+**Backend:** Node.js, Express.js, ASP.Net Core, C#, Django, Python  
+**Mobile:** React Native  
+**Cloud & Tools:** AWS, Azure, DigitalOcean, Firebase, Git, GitHub, Postman
 
-| Git                                                                                                          | GitHub                                                                                                                             | Postman                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Android" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="40" height="40"/> | <img src="https://logos-download.com/53577-postman-logo-download.html" alt="postman" width="40" height="40"/> |
+## 📊 GitHub Stats
 
-<h3 align="left">⭐ Connect with me on social media 📲 </h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="195em" src="https://github-readme-stats.vercel.app/api?username=biharihu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+      </td>
+      <td>
+        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biharihu&layout=compact&theme=tokyonight&include_all_commits=true&border_radius=10"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-| Linkedin                                                                                                                                                                                                                                                                             | GitHub                                                                                                                                                                                                                                                                       | Instagram                                                                                                                                                                                                                                                                        | Twitter                                                                                                                                                                                                                                                                       | Facebook                                                                                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p align="center"><a href="https://linkedin.com/in/dev-aks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biharihu" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/biharihu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rahulsoni" height="30" width="40" /></a> </p> | <p align="center"><a href="https://instagram.com/bihari_hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biharihu" height="30" width="40" /></a></p> | <p align="center"> <a href="https://twitter.com/AkashKumar_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biharihu" height="30" width="40" /></a> </p> | <p align="center"> <a href="https://www.facebook.com/4biharihu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biharihu" height="30" width="40" /></a></p> |
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=biharihu&theme=tokyonight&include_all_commits=true&border_radius=10"/>
+</div>
 
----
+## 🤝 Connect With Me
 
-# Productivity Stats📈:
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biharihu&theme=radical"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-</table>
-
-## 📊 GitHub Activity
-
-| ![Akash github stats](https://github-readme-stats.vercel.app/api?username=biharihu&show_icons=true&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&include_all_commits=true&count_private=true) | ![Akash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biharihu&theme=dark&background=b523ff,8b55fe,40b0fe&currStreakLabel=fff&ring=40b0fe&fire=8b55fe&border_radius=5&border=a5a5a5) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biharihu&langs_count=8&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&layout=compact)                              |
+<p align="center">
+  <a href="https://www.akashcodes.com/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/akashcodes"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/AkashKumar_Dev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/biharihu"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/bihari_hu"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
