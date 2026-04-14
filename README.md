@@ -30,14 +30,6 @@
 **Testing:** Jest, React Testing Library, Supertest  
 **State Mgmt:** Zustand, TanStack React Query, SWR
 
-## 🔥 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**pitchnow-web**](https://github.com/biharihu/pitchnow-web) / [**pitchnow-server**](https://github.com/biharihu/pitchnow-server) | AI-powered full-stack pitch platform | Next.js, TypeScript, OpenAI, Prisma, PostgreSQL |
-| [**Ticketing_Using_Micro_Services**](https://github.com/biharihu/Ticketing_Using_Micro_Services) | Microservices-based ticketing system | TypeScript, Docker, Kubernetes, NATS Streaming |
-| [**emerson-cc**](https://github.com/biharihu/emerson-cc) | Enterprise-grade application with Azure integration | Next.js, Azure MSAL, BullMQ, Redis |
-
 ## 📊 GitHub Stats
 
 <div align="center">
