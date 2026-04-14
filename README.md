@@ -13,16 +13,22 @@
 ## 🚀 About Me
 
 - 🔭 Full-stack developer specializing in **React**, **Next.js**, **Node.js**, **Express.js**, and **React Native**
-- 🌱 Currently learning **Django**, **iOS**, and **Swift**
-- 💬 Ask me about **JavaScript**, **TypeScript**, **AWS**, **Microservices**
+- 🤖 Building with **AI/LLM integrations** — OpenAI API & Anthropic Claude SDK
+- 🌱 Currently exploring **Flutter/Dart** and **iOS/Swift** development
+- 💬 Ask me about **JavaScript**, **TypeScript**, **GraphQL**, **Microservices**, **AI integrations**
 - 📫 Reach me: [@Akashcodes](https://www.linkedin.com/in/akashcodes)
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, SCSS  
-**Backend:** Node.js, Express.js, ASP.Net Core, C#, Django, Python  
-**Mobile:** React Native  
-**Cloud & Tools:** AWS, Azure, DigitalOcean, Firebase, Git, GitHub, Postman
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, SASS/SCSS, Radix UI, MUI, Framer Motion, Three.js  
+**Backend:** Node.js, Express.js, GraphQL (Apollo), Strapi, Socket.io, BullMQ  
+**Mobile:** React Native (CLI & Expo), Flutter/Dart  
+**Databases:** PostgreSQL, MongoDB, Redis, Prisma, Mongoose  
+**AI/ML:** OpenAI API, Anthropic Claude SDK  
+**Auth:** JWT, Passport.js (Google OAuth, Microsoft), Azure MSAL  
+**Cloud & DevOps:** AWS (S3), Azure, DigitalOcean, Firebase, Vercel, Docker, Kubernetes  
+**Testing:** Jest, React Testing Library, Supertest  
+**State Mgmt:** Zustand, TanStack React Query, SWR
 
 ## 📊 GitHub Stats
 
